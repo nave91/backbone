@@ -1,6 +1,6 @@
 ### Custom backbone functionalities
 .alias
-.idea
+.idea/
 scripts/
 
 ### Python template
